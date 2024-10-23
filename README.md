@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bitcham/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bitcham/LeetCode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/bitcham/LeetCode/tree/master/0217-contains-duplicate) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/bitcham/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/bitcham/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -35,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/bitcham/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/bitcham/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bitcham/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/bitcham/LeetCode/tree/master/0155-min-stack) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/bitcham/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -59,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/bitcham/LeetCode/tree/master/0217-contains-duplicate) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/bitcham/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->

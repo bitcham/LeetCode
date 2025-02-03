@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bitcham/LeetCode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/bitcham/LeetCode/tree/master/0217-contains-duplicate) |
 | [0816-design-hashset](https://github.com/bitcham/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/bitcham/LeetCode/tree/master/0817-design-hashmap) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/bitcham/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/bitcham/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bitcham/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/bitcham/LeetCode/tree/master/0217-contains-duplicate) |
 | [0816-design-hashset](https://github.com/bitcham/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/bitcham/LeetCode/tree/master/0817-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -51,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/bitcham/LeetCode/tree/master/0155-min-stack) |
 | [0816-design-hashset](https://github.com/bitcham/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/bitcham/LeetCode/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bitcham/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bitcham/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/bitcham/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/bitcham/LeetCode/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -74,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/bitcham/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/bitcham/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->

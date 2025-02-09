@@ -1,28 +1,26 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> a;
-        unordered_map<char, char> p = {
-            {')', '('},
-            {']', '['},
+       stack<char> temp;
+       unordered_map<char, char> mp{
+            {')','('},
             {'}', '{'},
-        };
+            {']', '['}
+       };
 
-        for(const auto& c : s){
-            if(p.find(c) != p.end()){
-                if(a.empty()){
+       for(auto& c : s){
+            if(c == ')' || c == '}' || c == ']'){
+                if(temp.empty()){
+                    return false;
+                }else if(temp.top() == mp[c]){
+                    temp.pop();
+                }else{
                     return false;
                 }
-                if(a.top() != p[c]){
-                    return false;
-                }
-
-                a.pop();
             } else{
-                a.push(c);
+                temp.push(c);
             }
-        }
-        return a.empty();
-
+       }
+        return temp.empty();
     }
 };

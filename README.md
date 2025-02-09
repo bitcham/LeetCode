@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bitcham/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/bitcham/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/bitcham/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0682-baseball-game](https://github.com/bitcham/LeetCode/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/bitcham/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/bitcham/LeetCode/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/bitcham/LeetCode/tree/master/0948-sort-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/bitcham/LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/bitcham/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/bitcham/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Stack
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bitcham/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/bitcham/LeetCode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/bitcham/LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/bitcham/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |

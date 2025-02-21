@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bitcham/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bitcham/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/bitcham/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/bitcham/LeetCode/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bitcham/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bitcham/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bitcham/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/bitcham/LeetCode/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bitcham/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/bitcham/LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/bitcham/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/bitcham/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/bitcham/LeetCode/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bitcham/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

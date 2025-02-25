@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/bitcham/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/bitcham/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/bitcham/LeetCode/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/bitcham/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bitcham/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bitcham/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/bitcham/LeetCode/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/bitcham/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bitcham/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/bitcham/LeetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/bitcham/LeetCode/tree/master/0948-sort-an-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/bitcham/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/bitcham/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bitcham/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bitcham/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/bitcham/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/bitcham/LeetCode/tree/master/0817-design-hashmap) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bitcham/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bitcham/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/bitcham/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/bitcham/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bitcham/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
 | ------- |

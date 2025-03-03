@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bitcham/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/bitcham/LeetCode/tree/master/0217-contains-duplicate) |
 | [0271-encode-and-decode-strings](https://github.com/bitcham/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0304-range-sum-query-2d-immutable](https://github.com/bitcham/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/bitcham/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/bitcham/LeetCode/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/bitcham/LeetCode/tree/master/0816-design-hashset) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/bitcham/LeetCode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/bitcham/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0304-range-sum-query-2d-immutable](https://github.com/bitcham/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/bitcham/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/bitcham/LeetCode/tree/master/0817-design-hashmap) |
 ## Linked List
@@ -192,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bitcham/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/bitcham/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/bitcham/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->

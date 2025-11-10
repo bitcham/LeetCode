@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bitcham/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bitcham/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bitcham/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/bitcham/LeetCode/tree/master/0066-plus-one) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bitcham/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bitcham/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bitcham/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/bitcham/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bitcham/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bitcham/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bitcham/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Sorting

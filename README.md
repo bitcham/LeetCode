@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/bitcham/LeetCode/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/bitcham/LeetCode/tree/master/0948-sort-an-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/bitcham/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/bitcham/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/bitcham/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bitcham/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bitcham/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/bitcham/LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/bitcham/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/bitcham/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/bitcham/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Stack
 |  |

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/bitcham/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/bitcham/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/bitcham/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [3110-score-of-a-string](https://github.com/bitcham/LeetCode/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
